@@ -1,2 +1,2 @@
 # ototag
-Ototag bruh
+OtoTag sistemi belirli kanala mesaj atar. Gnarge Botun sistemindendir ondan alınmıştır.
